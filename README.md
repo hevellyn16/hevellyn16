@@ -1,4 +1,4 @@
-## Hiii!! I'm Hevellyn Mesquita
+<img align="center" src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/welcome.gif" width="80px"> Hiiii! I'm Hevellyn Mesquita, a Computer Engineer student at Universidade Federal do Ceará (UFC) 🪼
 <div>
     <a href="https://github.com/hevellyn16">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=hevellyn16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -14,12 +14,11 @@
 </div>
 
 ##
-
-<div style="display: inline_block"><br> 
-  <a href="https://www.instagram.com/mesquita.hev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-  <a href = "mailto:meirianehev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-  <a href="www.linkedin.com/in/hevellyn-m-07871622a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+<h4 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Welcome!;Technology+enthusiast;Nice+to+meet+you...&center=true"></a>
+    <div>
+      <a href="https://www.instagram.com/mesquita.hev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a href = "mailto:meirianehev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="www.linkedin.com/in/hevellyn-m-07871622a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+</h4>
