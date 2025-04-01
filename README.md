@@ -23,4 +23,6 @@
   </div>
 </h4>
 
-![Snake animation](https://github.com/hevellyn16/hevellyn16/blob/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/hevellyn16/hevellyn16/blob/output/github-contribution-grid-snake.svg)
+
+
