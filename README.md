@@ -1,13 +1,7 @@
 <img align="center" src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/welcome.gif" width="80px"> Hiiii! I'm Hevellyn Mesquita, a Computer Engineer student at Federal University of Ceará (UFC) 🪼
 <div style="text-align: center; display: flex; justify-content: center; gap: 10px; align-items: center;">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hevellyn16&hide_title=false&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=dracula&cache_seconds=1000" 
-       alt="GitHub stats"
-       style="height: 150px;">
-  <a href="https://github.com/hevellyn16/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hevellyn16&line_height=10&card_width=290&layout=compact&hide_title=false&langs_count=6&show_icons=true&title_color=FF00F6&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" 
-         alt="Most used languages"
-         style="height: 150px;">
-  </a>
+  <img height="191px" src="https://github-readme-stats.vercel.app/api?username=hevellyn16&hide_border=true&show_icons=true&count_private=true&theme=dracula&bg_color=151515">
+  <img height="191px" src="https://github-readme-activity-graph.vercel.app/graph?username=hevellyn16&theme=xcode&hide_border=true" />
 </div>
 
 #
