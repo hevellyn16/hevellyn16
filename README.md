@@ -1,18 +1,31 @@
 <img align="center" src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/welcome.gif" width="80px"> Hiiii! I'm Hevellyn Mesquita, a Computer Engineer student at Federal University of Ceará (UFC) 🪼
-<div style="text-align: center; display: flex; justify-content: center; gap: 10px; align-items: center;">
-  <img height="191px" src="https://github-readme-stats.vercel.app/api?username=hevellyn16&hide_border=true&show_icons=true&count_private=true&theme=dracula&bg_color=151515">
-  <img height="191px" src="https://github-readme-activity-graph.vercel.app/graph?username=hevellyn16&theme=xcode&hide_border=true" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevellyn16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevellyn16&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
 #
 <img align="right" alt="" height="190px" src="./src/study.gif">
 <h3 align="left">My Stack ~</h3>
-<div style="display: inline_block"><br>
-    <img align="left" alt="Hev-CSS" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-    <img align="left" alt="Hev-html" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-    <img align="left" alt="Hev-JS" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-    <img align="left" alt="Hev-java" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-    <img align="left" alt="Hev-python" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<div style="display: inline_block">
+  <br>
+  <img align="left" alt="Hev-html" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="left" alt="Hev-CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align="left" alt="Hev-JS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  
+  <img align="left" alt="Hev-TS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img align="left" alt="Hev-React" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img align="left" alt="Hev-Next" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
+  <img align="left" alt="Hev-Tailwind" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+
+  <img align="left" alt="Hev-Node" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  <img align="left" alt="Hev-Prisma" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"/>
+  <img align="left" alt="Hev-Docker" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  
+  <img align="left" alt="Hev-Figma" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+  
+  <img align="left" alt="Hev-java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img align="left" alt="Hev-python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </div>
 
 <picture align="center">
